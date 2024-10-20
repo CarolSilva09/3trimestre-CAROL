@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;(153, 50, 204, 0.817);
+    margin: 0px
+}
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    color: bisque(204, 168, 238, 0.192);
+    display: flex;
+    justify-content: center;
+}
+ h1 {
+    color: blueviolet;
+    padding-top: 5%;
+ }
